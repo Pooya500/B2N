@@ -7,9 +7,9 @@ You can use b2n.ir instead of download and compile this useless code.
 This simple tool takes your long URL and turns into short B2N URL.
 
 # Example
-### Your Long URL : 
+Your Long URL : 
 https://github.com/Pooya500/B2N
 
-### Result : 
+Result : 
 https://b2n.ir/s44311
 
